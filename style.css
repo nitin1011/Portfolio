@@ -110,7 +110,6 @@ header {
     padding: 0 15px;
     box-shadow: 0 0 4px 0 rgba(0,0,0,.2);
     transition: box-shadow .25s ease-in-out;
-    outline: none;
     
 }
 
